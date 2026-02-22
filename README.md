@@ -96,7 +96,9 @@ These are commonly used for hard process termination or assertion-based crashes.
 These intercept exception-driven or runtime-triggered crash flows.
 
 ---
+## In action
 
+<img width="1883" height="560" alt="image" src="https://github.com/user-attachments/assets/da45d2cb-a1c5-4a7c-8b1c-f30f9fae9190" />
 
 ---
 
