@@ -10,6 +10,7 @@ are triggered.
 
 ---
 
+
 ## The Problem
 
 Many iOS applications implement defensive logic such as:
